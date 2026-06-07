@@ -1,0 +1,15 @@
+ALU001,Ezanaka Esther,BLK101
+ALU002,Jane Smith,BLK101
+ALU003,Amara Diallo,BLK101
+ALU004,Akhigbe Simeon,BLK101
+ALU005,Kwizera Grace,BLK101
+ALU006,Oluwaseun Adeyemi,BLK101
+ALU007,Fatoumata Traore,BLK101
+ALU008,Mugisha Kevin,BLK101
+ALU009,Tavonga Matikiti,BLK101
+ALU010,David Ochieng,BLK101
+ALU011,Uwase Chantal,BLK101
+ALU012,Samuel Mensah,BLK101
+ALU013,Kazeem Gift,BLK101
+ALU014,Tariq Al-Fayed,BLK101
+ALU015,David Ajao,BLK101
